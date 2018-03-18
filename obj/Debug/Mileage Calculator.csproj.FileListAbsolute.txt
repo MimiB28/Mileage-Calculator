@@ -1,0 +1,9 @@
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe.config
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.pdb
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csprojResolveAssemblyReference.cache
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Form1.resources
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Properties.Resources.resources
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.GenerateResource.Cache
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.exe
+c:\users\mimi\documents\visual studio 2015\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.pdb
